@@ -1,2 +1,2 @@
 # Dom
-Repositório com aprendizado e exercícios: Dom
+- Repositório com: artigos, aprendizados, exercícios e projetos.
